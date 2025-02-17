@@ -1,0 +1,19 @@
+{
+  "dependencies": [
+    "fmt",
+    {
+      "name": "icu",
+      "features": [
+        "tools"
+      ]
+    },
+    {
+      "name": "qtbase",
+      "features": [
+        "gui",
+        "widgets"
+      ]
+    }
+    
+  ]
+}
