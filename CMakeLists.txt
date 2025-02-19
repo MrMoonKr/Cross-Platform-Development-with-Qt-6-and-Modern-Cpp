@@ -67,4 +67,5 @@ file ( COPY ${CMAKE_BINARY_DIR}/vcpkg_installed/${VCPKG_TARGET_TRIPLET}/Qt6/plug
 add_subdirectory( Chapter00 )
 add_subdirectory( Chapter01 )
 add_subdirectory( Chapter02 )
+add_subdirectory( Chapter03 )
 
